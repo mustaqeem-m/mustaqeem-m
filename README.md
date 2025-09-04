@@ -48,8 +48,7 @@ I'm *Mohamed Mustaqeem, a **Frontend and Mobile App Developer* who is very passi
 
 <h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">My Github stats 😍</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mustaqeem-m&theme=highcontrast)](https://git.io/streak-stats)
-[![Williams's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustaqeem-m&show_icons=true&theme=highcontrast)](https://github.com/williamssam/github-readme-stats)
+[![Mustaqeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustaqeem-m&show_icons=true&theme=highcontrast)](https://github.com/williamssam/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
