@@ -17,7 +17,7 @@
 
 ### 🌎 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="[https://linkedin.com/mustaqee ](https://www.linkedin.com/in/mustaqeem-m-a553bb322/)" width="40"/></a>
+  <a href="https://www.linkedin.com/in/mustaqeem-m-a553bb322/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
   <a href="mailto:mmmustaqeem1910@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/></a>
   <a href="https://mustaqeem.tech" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40"/></a>
 </p>
